@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OTPView</string>
+    <string name="verify_via_authenticator_app">Verify via Authenticator App</string>
+    <string name="enter_the_verification_code_from_authenticator_app">Enter the verification code from authenticator app</string>
+    <string name="verify">Verify</string>
+    <string name="having_problems">Having Problems?</string>
+    <string name="send_code_via_sms">Send code via SMS</string>
+    <string name="use_auth_app">Use your authenticator App</string>
+    <string name="title_by_sms">Verify vis SMS OTP</string>
+    <string name="msg_by_sms">We just sent you an authentication code via SMS on this number %1$s. Enter it below</string>
+    <string name="haven_t_received_the_code">Haven’t received the code?</string>
+    <string name="_01_00">01:00</string>
+    <string name="resend">Resend</string>
+</resources>
